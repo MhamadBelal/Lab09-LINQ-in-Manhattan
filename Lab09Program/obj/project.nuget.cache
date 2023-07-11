@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iK9Wvy3u5n8FQNe/0A3redYnqLrHH6whjaUZaKs5QvN7JRn3b7VeDssvIxWMZjxTUdO7oEu4t3fjMo4QiWWk6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\MhamadBelal\\Lab09-LINQ-in-Manhattan\\Lab09Program\\Lab09Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
